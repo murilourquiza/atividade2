@@ -1,0 +1,25 @@
+.principal {
+   color: maroon;
+   text-align: center;
+}
+
+#uma {
+    text-align: center;
+    color:  maroon;
+    border-radius: 20px;
+    /* background-color: rgb(49, 9, 9); */
+}
+
+div {
+    border-radius: 20px;
+    background-color: rgb(233, 231, 240);
+}
+
+body {
+    background-color: rgb(202, 153, 157);
+}
+
+#oi {
+    text-align: center;
+}
+
